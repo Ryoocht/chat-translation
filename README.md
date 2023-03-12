@@ -1,5 +1,9 @@
 # Chat Translation
 
+### Deployment
+
+- Vercel
+
 ### Project Stack
 
 - Next JS
